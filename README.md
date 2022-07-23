@@ -1,4 +1,4 @@
 # Raj Chn's Notes
 
-### This repository contains all the notes taken by the coding kid RajChn
+### Summary: This repository contains all the notes taken by [Raj](https://github.com/RajChn) for The [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/)
 
